@@ -10,13 +10,13 @@ email: pouyan9675@gmail.com
 # website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: twitter.com/i_am_pouyan
-github_username:  github.com/pouyan9675
+twitter_username: i_am_pouyan
+github_username:  pouyan9675
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: instagram.com/pouyan.na
-linkedin_username: linkedin.com/in/pouyan-n-508a4586/
+instagram_username: pouyan.na
+linkedin_username: pouyan-n-508a4586
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -24,15 +24,18 @@ linkedin_username: linkedin.com/in/pouyan-n-508a4586/
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/travis.jpg
+about_profile_image: images/pouyan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a bachelor graduated of Computer Engineering at the [Department of Computer Engineering](https://ce.guilan.ac.ir/) of [Guilan University](https://guilan.ac.ir/) in Iran. I love <mark>Natural Language Processing</mark> and <mark>Deep Learning</mark>. To be more specific, I am enthusiastic in language models and generating ChatBots using deep models. I was Software Engineer and Android Programmer at [Black Board](http://black-boards.ir/).
+  Also, I have advanced skill and 5 years experience of <mark>Android</mark> application programming and I have developed many applications which are avaliable through markets.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  I never get tired of learning new things and challenging myself.
+  My skills are as following list
+    - Java
+    - Python
+    - Android
+    - Natural Language Processing
+    - Deep Learning
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
