@@ -1,8 +1,10 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: University of Guilan
+  dates: 2014-2018
+  qualification: BSc Computer Engineering
   quote: >
-    Short institution or course description (optional)
+    Established in 1974 as a collaborative effort between Iran and West Germany. The University of Guilan is an institute of higher education and graduate studies in Rasht, a large city in the province of Guilan, in Northern Iran. It has nearly 18,000 students enrolled.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    During my time at Guilan University I learnt lots of skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+    I was member of *Computer Scientific Association* for one year and I held several **Android workshops**.
