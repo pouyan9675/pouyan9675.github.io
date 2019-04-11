@@ -1,10 +1,18 @@
 # Education Template
 - name: University of Guilan
   dates: 2014 - 2018
-  qualification: BSc Computer Engineering
+  qualification: B.Sc. Computer Engineering
   quote: >
     Established in 1974 as a collaborative effort between Iran and West Germany. The University of Guilan is an institute of higher education and graduate studies in Rasht, a large city in the province of Guilan, in Northern Iran. It has nearly 18,000 students enrolled.
   description: | # this will include new lines to allow paragraphs
-    During my time at Guilan University I learnt lots of skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at University of Guilan I learnt lots of skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I was member of *Computer Scientific Association* for one year and I held several **Android workshops**.
+    I was a member of *Computer Scientific Association* for one year and I held several **Android workshops**.
+
+- name: Self-Taught
+  date: Until now
+  quote: >
+    You cannot teach a man anything, you can only help him find it within himself.
+    Dale Cornegie
+  description: /
+    I am eager to learn and I try to research whenever it is possible. There are lots of things which I learned in my free times.
