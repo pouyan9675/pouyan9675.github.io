@@ -1,9 +1,9 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: BlackBoard
+  link: http://black-boards.ir
+  job_title: Software Engineer
+  dates: 2016 - 2018
   quote: >
-   Short description of the company (optional)
+   Black Board is a schools managment system which enables students and thier parents (through appliation) to connect to the school.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I was Software Engineer and Senior Android developer at this project. Also I have done some UI design for several pages.
