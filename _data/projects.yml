@@ -2,7 +2,8 @@
 - name: Persian SMS Spam Detection
   github: pouyan9675/Spam-SMS-Filter
   description: | # this will include new lines to allow paragraphs
-    Classifying persian messages to detecting spam ones. Implemented using <mark>SVM</mark> algorithm and dataset which is gathered with an [android application](https://github.com/pouyan9675/SpamCollector) that I have developed for this purpose. This project is my *Bachelors Thesis* and my adviser was [Dr. Seyed AbolGhasem Mirroshandel](https://staff.guilan.ac.ir/mirroshandel/).
+    Classifying persian messages to detecting spam ones. Implemented using <mark>SVM</mark> algorithm and dataset which is gathered with an [android application](https://github.com/pouyan9675/SpamCollector) that I have developed for this purpose. 
+    This project is my *Bachelors Thesis* and my adviser was [Dr. Seyed AbolGhasem Mirroshandel](https://staff.guilan.ac.ir/mirroshandel/).
 
 
 - name: Persian sentiment analysis
@@ -13,7 +14,7 @@
 
 - name: Memory Game
   github: pouyan9675/Multiplayer-Memory-Game
-  description: |
+  description: >
     Popular board game which challenges memory and players have to find similar images and match them to gain scores. The game runs on a single server to save players socre and show them in highscores.
     Another option is showing advertisements inside game.
 
@@ -32,5 +33,5 @@
 
 - name: Bluetooth Tic Tac Toe
   link: [Cafe Bazaar](https://cafebazaar.ir/app/com.gilbinary.tictactoe.bluetooth/?l=en)
-  description: >
+  description: |
     Android Tic Tac Toe game implemented as multiplayer using Bluetooth
