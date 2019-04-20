@@ -50,9 +50,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  I am really interested in **teamworks** and I have exprienced in *leading* minor teams. In freetimes I consider to learn new things and updating my knowledge about technology and all other stuffs.
+  I have other relevant skills to computer science either such as
+  - Java
+  - Django
+  - Adobe XD
+  - Adobe Photoshop
+  - Adobe Lightroom
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Furthermore, my cheif interests are *music*, online computer games especially *Fortnite* ;) , *photography*, *reading book* and watching movies.
 
 # Footer
 footer_show_references: true

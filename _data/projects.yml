@@ -2,28 +2,28 @@
 - name: Persian SMS Spam Detection
   github: pouyan9675/Spam-SMS-Filter
   description: | # this will include new lines to allow paragraphs
-    Classification persian SMS to detecting spam messages. Implemented using SVM algorithm and dataset which is gathered with an [android application](https://github.com/pouyan9675/SpamCollector) that I have developed for this purpose.
+    Classifying persian messages to detecting spam ones. Implemented using <mark>SVM</mark> algorithm and dataset which is gathered with an [android application](https://github.com/pouyan9675/SpamCollector) that I have developed for this purpose. This project is my *Bachelors Thesis* and my adviser was [Dr. Seyed AbolGhasem Mirroshandel](https://staff.guilan.ac.ir/mirroshandel/).
 
 
-- name: Sentiment analysis for Persian language
+- name: Persian sentiment analysis
   github: pouyan9675/Persian-Sentiment-Analysis
   description: |
-    Implementing persian sentiment analysis using Digikala opendata comments dataset and Machine Learning algorithm (LSTM)
+    Implementing persian sentiment analysis by neural networks and using [Digikala Opendata](http://opendata.digikala.com). I started this project as a way to learn <mark>LSTM</mark> algorithm.
 
 
-- name: Multiplayer Memory Game
+- name: Memory Game
   github: pouyan9675/Multiplayer-Memory-Game
   description: |
     Popular board game which challenges memory and players have to find similar images and match them to gain scores. The game runs on a single server to save players socre and show them in highscores.
     Another option is showing advertisements inside game.
 
-    The game is implemented using Java and the GUI has been developed with Java Swing.
+    The game is implemented using *Java* and the GUI has been developed with *Java Swing*.
 
 
 - name: Telegram Cleaner
-  link: https://cafebazaar.ir/app/com.gillbinary.telegram_cleaner/?l=en
+  link: [Cafe Bazaar](https://cafebazaar.ir/app/com.gillbinary.telegram_cleaner/?l=en)
   description: >
-    An android application to manage telegram download cache by finding unnecessary files and remove them. It has several features such as
+    An Android application to manage Telegram download cache by finding unnecessary files and remove them. It has several features such as
     - Find duplicate files
     - Chart of files types
     - Set a limit to downloaded data
@@ -31,6 +31,6 @@
 
 
 - name: Bluetooth Tic Tac Toe
-  link: https://cafebazaar.ir/app/com.gilbinary.tictactoe.bluetooth/?l=en
+  link: [Cafe Bazaar](https://cafebazaar.ir/app/com.gilbinary.tictactoe.bluetooth/?l=en)
   description: >
-    Tic Tac Toe game implemented as multiplayer using Bluetooth
+    Android Tic Tac Toe game implemented as multiplayer using Bluetooth
