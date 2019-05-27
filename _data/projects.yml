@@ -14,7 +14,7 @@
 
 - name: Memory Game
   github: pouyan9675/Multiplayer-Memory-Game
-  description: >
+  description: |
     Popular board game which challenges memory and players have to find similar images and match them to gain scores. The game runs on a single server to save players socre and show them in highscores.
     Another option is showing advertisements inside game.
 
@@ -23,7 +23,7 @@
 
 - name: Telegram Cleaner
   link: cafebazaar.ir/app/com.gillbinary.telegram_cleaner/?l=en
-  description: >
+  description: |
     An Android application to manage Telegram download cache by finding unnecessary files and remove them. It has several features such as
     - Find duplicate files
     - Chart of files types
@@ -35,7 +35,7 @@
 
 - name: Bluetooth Tic Tac Toe
   link: cafebazaar.ir/app/com.gilbinary.tictactoe.bluetooth/?l=en
-  description: >
+  description: |
     Android Tic Tac Toe game implemented as multiplayer using Bluetooth.
 
     The project is accessible through [Cafe Bazaar](http://cafebazaar.ir/app/com.gilbinary.tictactoe.bluetooth/?l=en) market.

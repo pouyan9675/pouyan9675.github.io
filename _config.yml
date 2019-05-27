@@ -52,13 +52,12 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   I am really interested in **teamworks** and I have exprienced in *leading* minor teams. In freetimes I consider to learn new things and updating my knowledge about technology and all other stuffs.
   I have other relevant skills to computer science either such as
-  - Java
   - Django
   - Adobe XD
   - Adobe Photoshop
   - Adobe Lightroom
 
-  Furthermore, my cheif interests are *music*, online computer games especially *Fortnite* ;) , *photography*, *reading book* and watching movies.
+  Furthermore, my chief interests are *music*, online computer games especially *Fortnite* ;) , *photography*, reading *books* and watching *movies*.
 
 # Footer
 footer_show_references: true
