@@ -9,7 +9,8 @@
 - name: Persian sentiment analysis
   github: pouyan9675/Persian-Sentiment-Analysis
   description: |
-    Implementing persian sentiment analysis by neural networks and using [Digikala Opendata](http://opendata.digikala.com). I started this project as a way to learn <mark>LSTM</mark> algorithm.
+    Implementing persian sentiment analysis classifier which predicts customers comments polarity using [Digikala Opendata](http://opendata.digikala.com). I started this project as a way to learn <mark>LSTM</mark> algorithm. It can be gives an overall 
+    understanding of clients satisfaction of products.
 
 
 - name: Memory Game
