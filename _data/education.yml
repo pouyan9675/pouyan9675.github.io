@@ -1,4 +1,12 @@
 # Education Template
+- name: University of Nevada, Las Vegas
+  dates: 2020 - Now
+  qualification: Ph.D. Computer Science
+  quote: >  # use a blank line to create new line
+    The University of Nevada, Las Vegas is a public land-grant research university in Paradise, Nevada. The 332-acre campus is about 1.6 mi east of the Las Vegas Strip. It was formerly part of the University of Nevada from 1957 to 1969.
+  description: |
+    Currently, I am enrolled in Computer Science Ph.D. program of University of Nevada, Las Vegas. Also, I am working as graduate assistant.
+
 - name: University of Guilan
   dates: 2014 - 2018
   qualification: B.Sc. Computer Engineering
