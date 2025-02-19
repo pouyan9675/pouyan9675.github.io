@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/recommendation-moa
 excerpt: 'The text associated with clinical trials contains a fair amount of information that experts regularly analyze and interpret to extract information. In most cases, specialists use the text to create structured data for comparing candidate trials in different aspects. As this process is tedious and time-consuming, automation is important, relying on machine learning applications in natural language processing. In this paper, we explore the feasibility of the mechanism of action (MoA) classification for Alzheimer’s drugs by augmenting bidirectional encoder representations from transformers for biomedical text mining (BioBERT) pre-trained model with a five-layer deep neural network. This recommendation model achieves an F1-score of 97% on the dataset built based on the material from the Alzheimer’s disease drug development pipeline at clinicaltrials.gov and the ALZFORUM therapeutics website.' 
-date: 2022
+date: 2022-01-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
