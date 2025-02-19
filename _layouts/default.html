@@ -1,38 +1,31 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+---
+layout: compress
+---
 
-{%- include head.html -%}
+{% include base_path %}
 
-<body>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-  {%- include header.html -%}
+  <body>
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-      {%- include about.html -%}
+    {{ content }}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
-
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
-      {%- endif -%}
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
-      {%- endif -%}
-
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
-  </main>
 
-  {%- include footer.html -%}
+    {% include scripts.html %}
 
-</body>
-
+  </body>
 </html>
