@@ -1,50 +1,50 @@
 main:
 
   - title: "Tri‑AL: An open source platform for visualization and analysis of clinical trials"
-    authors: <strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kazem Taghva, Lukasz Golab
+    authors: "<strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kazem Taghva, Lukasz Golab"
     conference_short: ""
     conference: "Information Systems, 2025"
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0306437924001170
-    code: https://github.com/pouyan9675/Tri-AL
+    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0306437924001170"
+    code: "https://github.com/pouyan9675/Tri-AL"
     bibtex: ""
     image: "./assets/img/trial.png"
     notes: ""
 
   - title: "Enhancing Clinical Trial Summarization: Leveraging Large Language Models and Knowledge Graphs for Entity Preservation"
-    authors: <strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kazem Taghva
+    authors: "<strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kazem Taghva"
     conference_short: ""
     conference: "International Congress on Information and Communication Technology, 2025"
-    pdf: https://link.springer.com/chapter/10.1007/978-981-97-3302-6_26
+    pdf: "https://link.springer.com/chapter/10.1007/978-981-97-3302-6_26"
     code: ""
     bibtex: ""
     image: "./assets/img/summarization.png"
     notes: ""
 
-  - title: "A Recommendation Model for Predicting Alzheimer’s Drugs’ Mechanism of Action"
-    authors: <strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Jorge Ramon Fonseca Cacho, Garam Lee, Jeffrey Cummings, Kazem Taghva
+  - title: "A Recommendation Model for Predicting Alzheimer's Drugs' Mechanism of Action"
+    authors: "<strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Jorge Ramon Fonseca Cacho, Garam Lee, Jeffrey Cummings, Kazem Taghva"
     conference_short: ""
     conference: "Intelligent Sustainable Systems – Selected Papers of WorldS4, 2022"
-    pdf: https://d1wqtxts1xzle7.cloudfront.net/96938317/LONDON_PAPER2023-libre.pdf?1673091363=&response-content-disposition=inline%3B+filename%3DLecture_Notes_in_Networks_and_Systems_Vo.pdf&Expires=1740012345&Signature=fvD~J3CPltumr-Kt8sMKAaZuxvyP~FEzMVdiWtSXlEwjS2~wJUMANc0GjNYDM4pfVgs8wk2L0TREXDrRQCRxG3HBvBSTjBiZ~D3C9uP~s3QDqtIY0WNgEbLE9GAU4W2VccUgFhhmClffBgdsF5Mf1HxYLGJX-~l1XZdmkWSjpBORyuOYNU3S1sAshEah2McMkPrpLZSkiR0rXych8rGqsDEP3ubORoFF5ugvA6UuS7QTmZNWKT6BbKQowkqW64yPhRCZavQNIMrv40~PoW4vzr8~DWw5ApY9XEHJXHBArYkCcsh6bOf4md9Gj~81l0pZUm0it2sGP2pJOz80KVxDdw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=89
+    pdf: "https://www.academia.edu/download/96938317/LONDON_PAPER2023.pdf#page=89"
     code: ""
     bibtex: ""
     image: "./assets/img/moa_recommendation.png"
     notes: ""
 
   - title: "Clinical text classification of Alzheimer's drug's mechanism of action"
-    authors: Mina Esmail Zadeh Nojoo Kambar, <strong>Pouyan Nahed</strong>, Jorge Ramón Fonseca Cacho, Garam Lee, Jeffrey Cummings, Kazem Taghva
+    authors: "Mina Esmail Zadeh Nojoo Kambar, <strong>Pouyan Nahed</strong>, Jorge Ramón Fonseca Cacho, Garam Lee, Jeffrey Cummings, Kazem Taghva"
     conference_short: ""
     conference: "International Congress on Information and Communication Technology, 2022"
-    pdf: "https://www.researchgate.net/profile/Jorge-Fonseca-10/publication/354811833_Clinical_Text_Classification_of_Alzheimer%27s_Drugs%27_Mechanism_of_Action/links/61fe48d91674b45977c68610/Clinical-Text-Classification-of-Alzheimers-Drugs-Mechanism-of-Action.pdf?__cf_chl_tk=yo_CqeCn2x4Vxl.8Ci9d1en6yksFLfd59wZM3cvWVr8-1740008241-1.0.1.1-2f7B3S9Jzuh34QXIBsSGlD4LtCMXEgF8ZxngyAwCnIs
+    pdf: "https://www.researchgate.net/profile/Jorge-Fonseca-10/publication/354811833_Clinical_Text_Classification_of_Alzheimer%27s_Drugs%27_Mechanism_of_Action/links/61fe48d91674b45977c68610/Clinical-Text-Classification-of-Alzheimers-Drugs-Mechanism-of-Action.pdf"
     code: ""
     bibtex: ""
     image: "./assets/img/moa.png"
     notes: ""
 
-  - title: "Alzheimer’s disease drug development pipeline: 2022"
-    authors: Jeffrey Cummings, Garam Lee, <strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kate Zhong, Jorge Fonseca, Kazem Taghva
+  - title: "Alzheimer's disease drug development pipeline: 2022"
+    authors: "Jeffrey Cummings, Garam Lee, <strong>Pouyan Nahed</strong>, Mina Esmail Zadeh Nojoo Kambar, Kate Zhong, Jorge Fonseca, Kazem Taghva"
     conference_short: ""
-    conference: "Alzheimer’s & Dementia: Translational Research & Clinical Interventions, 2022"
-    pdf: https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/trc2.12295
+    conference: "Alzheimer's & Dementia: Translational Research & Clinical Interventions, 2022"
+    pdf: "https://alz-journals.onlinelibrary.wiley.com/doi/pdf/10.1002/trc2.12295"
     code: ""
     bibtex: ""
     image: "./assets/img/alz-pipeline.png"
