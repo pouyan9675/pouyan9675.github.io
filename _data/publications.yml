@@ -30,7 +30,7 @@ main:
     image: "./assets/img/moa_recommendation.png"
     notes: ""
 
-  - title: "Clinical text classification of Alzheimer’s drugs’ mechanism of action"
+  - title: "Clinical text classification of Alzheimer's drug's mechanism of action"
     authors: Mina Esmail Zadeh Nojoo Kambar, <strong>Pouyan Nahed</strong>, Jorge Ramón Fonseca Cacho, Garam Lee, Jeffrey Cummings, Kazem Taghva
     conference_short: ""
     conference: "International Congress on Information and Communication Technology, 2022"
