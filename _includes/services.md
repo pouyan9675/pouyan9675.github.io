@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Peer Reviews</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://sceweb.sce.uhcl.edu/bicob25/"><autocolor>IEEE/ACM Transactions on Computational Biology and Bioinformatics (BICOB) 2025</autocolor></a></li>
